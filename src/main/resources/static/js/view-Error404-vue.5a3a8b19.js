@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["view-Error404-vue"],{b2ec:function(r,e,n){"use strict";n.r(e);var t=function(){var r=this;r._self._c;return r._m(0)},s=[function(){var r=this,e=r._self._c;return e("div",{staticClass:"error-page"},[e("h1",[r._v("404 - 页面不存在")])])}],u={name:"Error404"},a=u,c=n("2877"),i=Object(c["a"])(a,t,s,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=view-Error404-vue.5a3a8b19.js.map
